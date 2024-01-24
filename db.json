@@ -1,0 +1,84 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Complete Frontend UI",
+      "points": 5,
+      "description": "Implement and style the user interface for the frontend components.",
+      "status": "In Progress",
+      "priority": "low"
+    },
+    {
+      "id": "2",
+      "title": "Backend API Integration",
+      "points": 1,
+      "description": "Connect the frontend to the backend API for data retrieval and submission.",
+      "status": "Completed",
+      "priority": "low"
+    },
+    {
+      "id": "3",
+      "title": "User Authentication",
+      "points": 8,
+      "description": "Implement secure user authentication and authorization mechanisms.",
+      "status": "In Progress",
+      "priority": "medium"
+    },
+    {
+      "id": "4",
+      "title": "Bug Fixing - Login Page",
+      "points": 5,
+      "description": "Address and fix any bugs identified on the login page.",
+      "status": "In Progress",
+      "priority": "low"
+    },
+    {
+      "id": "5",
+      "title": "Database Schema Design",
+      "points": 13,
+      "description": "Design and implement the database schema for the application.",
+      "status": "To Do",
+      "priority": "high"
+    },
+    {
+      "id": "6",
+      "title": "Implement User Dashboard",
+      "points": 13,
+      "description": "Create the user dashboard with relevant statistics and information.",
+      "status": "In Progress",
+      "priority": "low"
+    },
+    {
+      "id": "7",
+      "title": "Mobile Responsiveness",
+      "points": 8,
+      "description": "Ensure the application is responsive and functions well on various devices.",
+      "status": "To Do",
+      "priority": "high"
+    },
+    {
+      "id": "8",
+      "title": "Testing - Unit and Integration",
+      "points": 13,
+      "description": "Write and execute unit and integration tests for the application.",
+      "status": "To Do",
+      "priority": "medium"
+    },
+    {
+      "id": "9",
+      "title": "Performance Optimization",
+      "points": 13,
+      "description": "Optimize the application for better performance and faster load times.",
+      "status": "To Do",
+      "priority": "low"
+    },
+    {
+      "id": "10",
+      "title": "Documentation",
+      "points": 8,
+      "description": "Create comprehensive documentation for the codebase and usage.",
+      "status": "In Progress",
+      "priority": "low"
+    }
+  ]
+}
